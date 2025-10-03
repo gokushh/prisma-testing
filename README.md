@@ -1,5 +1,7 @@
 STEPS TO REPLICATE THIS PROJECT
 
+discussion: https://github.com/prisma/prisma/discussions/28208
+
 1. Create a clean nextjs app:
 ```
 root@DESKTOP:~/projetos# npx create-next-app@latest
