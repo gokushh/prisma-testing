@@ -1,3 +1,5 @@
+STEPS TO REPLICATE THIS PROJECT
+
 1. Create a clean nextjs app:
 ```
 root@DESKTOP:~/projetos# npx create-next-app@latest
